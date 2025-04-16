@@ -1,0 +1,4 @@
+com\example\clickhouse_ingestor\service\ClickHouseService.class
+com\example\clickhouse_ingestor\controller\ClickHouseController.class
+com\example\clickhouse_ingestor\ClickhouseIngestorApplication.class
+com\example\clickhouse_ingestor\model\ClickHouseConnectionRequest.class
